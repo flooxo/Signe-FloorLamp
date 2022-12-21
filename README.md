@@ -13,6 +13,10 @@ This lamp is oriented to the Phillips hue signe floor lamp. Each LED of the lamp
  * aluminum profile 1,5m (x1)
  * concrete (for the stand)
 
+### TODO
+- [ ] update version
+- [ ] add pics
+
 ### Pictures
 
 tba
